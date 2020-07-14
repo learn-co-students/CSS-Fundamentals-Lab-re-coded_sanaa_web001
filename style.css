@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+header, section {
+  text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gainsboro;
+}
+img {
+  width: 900px;
+}
+#featured-property p {
+  width: 800px;
+  margin: auto;
+}
+figcaption {
+  font-size: 12px;
+}
+#details {
+  display: block;
+}
+#details div {
+  width: 25%;
+  float: left;
+  background: lightgray;
+}
