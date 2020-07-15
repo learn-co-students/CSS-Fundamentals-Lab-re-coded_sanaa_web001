@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+ header {
+   text-align: center;
+ }
+
+nav{
+  text-align: center;
+}
+nav a{
+  padding: 0 1px;
+  background-color: grey;
+}
+img {
+  text-align: center;
+}
+figcaption{
+ font-size: 12px; 
+ text-align: center;
+}
+p{
+  width: 800px;
+  text-align: center;
+}
+#datails{
+  display: block;
+}
+#datails div{
+  float: left;
+  background-color: blue;
+  width:25%;
+  text-align: center;
+}
