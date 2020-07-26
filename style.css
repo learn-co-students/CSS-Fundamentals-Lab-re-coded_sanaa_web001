@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  color: red;
+}
+.center{
+  text-align: center;
+}
+a{
+  background-color: #DCDCDC;
+  padding 0 10px;
+}
+#featured-property{
+  text-align: center;
+}
+#featured-property p{
+  width: 800px;
+  text-align: center;
+
+
+}
+#details{
+  background-color: red;
+
+}
+#details div{
+  float: left;
+  display: block;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
