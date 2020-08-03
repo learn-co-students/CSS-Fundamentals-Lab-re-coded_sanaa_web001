@@ -22,27 +22,29 @@ nav a {
   margin-left: auto;
   margin-right: auto;
   margin-top: 16px;
-  width: 50%;
+  width: 900px;
 }
 
 #featured-property figure figcaption {
   text-align: center;
+  font-size: 0.8em;
 }
 
 #featured-property p {
   margin: auto;
-  width: 40%;
+  width: 800px;
   padding: 16px;
   text-align: center;
   box-sizing: border-box;
 }
 
 #details {
-  display: flex;
-  background-color: red;
+  display: block;
 }
 
 #details div {
-  flex: 1;
+  background-color: red;
+  float: left;
   text-align: center;
+  width: 25%;
 }
